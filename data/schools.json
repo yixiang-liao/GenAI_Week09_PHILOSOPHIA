@@ -1,0 +1,135 @@
+[
+  {
+    "id": "confucianism",
+    "name": "儒家",
+    "nameOriginal": "Confucianism",
+    "tradition": "east",
+    "era": "春秋時代至今",
+    "summary": "由孔子創立、孟子與荀子等人發展的學派。重視仁義禮智等德行與人倫關係，主張以修身為本、以德治國，是兩千多年來中國及東亞社會的主流思想之一。",
+    "origin": [
+      "「儒」原指熟悉禮儀、從事教育與禮儀相關工作的人。孔子在春秋晚期整理周代禮樂文化，並賦予其道德意涵，奠定了儒家的基本思想。",
+      "孔子之後，儒家在戰國時代分化出不同學派。孟子發揚性善論與仁政，荀子則主張性惡、重視禮法教化。",
+      "漢武帝時採納董仲舒等人的建議推崇儒術，儒家逐漸成為官方學術。宋明時期，朱熹、王陽明等人發展出理學與心學，使儒家思想進一步深化。"
+    ],
+    "views": [
+      { "title": "以仁為本", "text": "儒家以仁作為一切德行的核心，強調人與人之間真誠的關懷，並從家庭中的孝悌出發，逐步推及社會。" },
+      { "title": "重視禮樂", "text": "禮樂是表達與培養德行的方式。儒家認為合宜的禮儀規範能夠調和人際關係、維繫社會秩序。" },
+      { "title": "修身為本", "text": "《大學》提出由修身、齊家到治國、平天下的次序，說明政治秩序必須建立在個人德行修養之上。" },
+      { "title": "德治與民本", "text": "儒家主張統治者以德服人，重視人民的生活與教化，反對單純依賴嚴刑峻法。" }
+    ],
+    "philosophers": ["confucius", "mencius"],
+    "schools": ["daoism"],
+    "concepts": ["ren", "human-nature-goodness"],
+    "works": ["analects", "mengzi"],
+    "tags": ["倫理學", "政治哲學", "先秦諸子"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Confucius", "url": "https://plato.stanford.edu/entries/confucius/" }
+    ]
+  },
+  {
+    "id": "daoism",
+    "name": "道家",
+    "nameOriginal": "Daoism / Taoism",
+    "tradition": "east",
+    "era": "春秋戰國時代至今",
+    "summary": "以老子與莊子為代表的學派，以「道」為萬物根源，主張順應自然、清靜無為，並追求精神上的自由。需注意哲學上的道家與後來作為宗教的道教並不相同。",
+    "origin": [
+      "道家思想以老子《道德經》為源頭，戰國時期莊子進一步發展，形成「老莊」思想傳統。",
+      "「道家」這個名稱最早見於西漢司馬談的〈論六家要旨〉，他將先秦思想分為陰陽、儒、墨、名、法、道德六家。",
+      "漢初黃老之學曾一度影響政治；魏晉時期王弼、郭象等人注解《老子》、《莊子》，形成玄學。東漢以後興起的道教雖奉老子為祖師，但其宗教體系與先秦道家哲學有所區別。"
+    ],
+    "views": [
+      { "title": "道為根源", "text": "道是萬物生成與運行的根源，超越語言與感官，無法以固定的名稱完全把握。" },
+      { "title": "無為而治", "text": "反對過度的人為干預，主張統治者減少控制與慾望，讓人民依其本性自然發展。" },
+      { "title": "順應自然", "text": "人應效法道的自然運行，減少私慾與機巧，回歸樸素的狀態。" },
+      { "title": "超越對立", "text": "莊子指出是非、美醜等判斷都是相對的，主張以更寬廣的視角看待萬物，獲得精神上的逍遙。" }
+    ],
+    "philosophers": ["laozi", "zhuangzi"],
+    "schools": ["confucianism"],
+    "concepts": ["dao", "wuwei"],
+    "works": ["daodejing", "zhuangzi-book"],
+    "tags": ["形上學", "政治哲學", "先秦諸子"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Daoism", "url": "https://plato.stanford.edu/entries/daoism/" }
+    ]
+  },
+  {
+    "id": "platonic-academy",
+    "name": "柏拉圖學派（學園派）",
+    "nameOriginal": "The Academy / Platonism",
+    "tradition": "west",
+    "era": "前4世紀起",
+    "summary": "由柏拉圖在雅典創立的學園所形成的哲學傳統。以理型論為核心，重視數學與辯證法，其思想經後世不斷詮釋，深刻影響了西方哲學與神學。",
+    "origin": [
+      "約前387年，柏拉圖在雅典城外祭祀英雄阿卡德摩斯（Academus）的園林中講學，學園（Academy）之名即由此而來。",
+      "柏拉圖去世後，學園由其外甥斯珀西波斯（Speusippus）等人主持。前3世紀時，阿爾克西拉烏斯（Arcesilaus）帶領學園轉向懷疑論，進入所謂「新學園」時期。",
+      "西元3世紀，普羅提諾（Plotinus）等人重新詮釋柏拉圖思想，形成新柏拉圖主義，後來對基督教與伊斯蘭哲學都產生重要影響。"
+    ],
+    "views": [
+      { "title": "理型的實在性", "text": "感官世界之外存在永恆不變的理型，它們才是真正的實在，也是知識的對象。" },
+      { "title": "重視數學與辯證", "text": "學園重視數學訓練，認為它能引導心靈從感官事物轉向抽象真理；辯證法則是探求理型的最高方法。" },
+      { "title": "靈魂與德行", "text": "靈魂比身體更重要。人生的目標是使靈魂和諧並趨近於善。" }
+    ],
+    "philosophers": ["plato", "socrates"],
+    "schools": ["peripatetic"],
+    "concepts": ["theory-of-forms", "socratic-method"],
+    "works": ["republic", "apology"],
+    "tags": ["古希臘", "形上學", "知識論"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Plato", "url": "https://plato.stanford.edu/entries/plato/" }
+    ]
+  },
+  {
+    "id": "peripatetic",
+    "name": "逍遙學派",
+    "nameOriginal": "Peripatetic School",
+    "tradition": "west",
+    "era": "前4世紀起",
+    "summary": "由亞里斯多德在雅典呂克昂學院創立的學派。重視經驗觀察與分類研究，涵蓋邏輯、自然科學、倫理與政治等領域。",
+    "origin": [
+      "前335年左右，亞里斯多德在雅典的呂克昂（Lyceum）建立學院。「逍遙」（Peripatetic）一名一般認為源自學院中的迴廊（peripatos），也有說法認為與亞里斯多德邊散步邊講學的習慣有關。",
+      "亞里斯多德離開雅典後，由其學生泰奧弗拉斯托斯（Theophrastus）繼續主持學院，並在植物學等領域延續經驗研究的傳統。",
+      "中世紀時，亞里斯多德的著作經由阿拉伯學者的翻譯與注釋再度傳入歐洲，阿奎那等經院哲學家將其與基督教神學結合，影響深遠。"
+    ],
+    "views": [
+      { "title": "形式在事物之中", "text": "不同於柏拉圖將理型置於另一個世界，亞里斯多德學派認為事物的形式與質料結合，存在於具體個體之中。" },
+      { "title": "重視經驗研究", "text": "透過觀察、蒐集資料與分類來認識自然，例如亞里斯多德對動物的大量研究。" },
+      { "title": "目的論", "text": "自然事物都有其目的或功能，理解事物需要說明它的目的因。" },
+      { "title": "實踐倫理", "text": "倫理學的目的不只是認識善，更是成為善的人；德行需要透過反覆實踐而養成。" }
+    ],
+    "philosophers": ["aristotle"],
+    "schools": ["platonic-academy"],
+    "concepts": ["eudaimonia"],
+    "works": ["nicomachean-ethics"],
+    "tags": ["古希臘", "倫理學", "邏輯", "自然哲學"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Aristotle", "url": "https://plato.stanford.edu/entries/aristotle/" }
+    ]
+  },
+  {
+    "id": "german-idealism",
+    "name": "德國觀念論",
+    "nameOriginal": "German Idealism",
+    "tradition": "west",
+    "era": "18世紀末至19世紀中",
+    "summary": "以康德的批判哲學為起點，由費希特、謝林、黑格爾等人發展的哲學運動。關注主體、自由與理性如何構成我們對世界的認識。",
+    "origin": [
+      "1781年康德出版《純粹理性批判》，主張人的認識形式決定了經驗對象的呈現方式，為後來的德國觀念論奠定基礎。康德本人自稱其立場為「先驗觀念論」。",
+      "費希特、謝林與黑格爾在承接康德問題的同時，也試圖克服「物自身」不可知所帶來的困難，發展出更具系統性的哲學體系。",
+      "德國觀念論對後來的馬克思主義、存在主義、現象學及詮釋學等思潮都產生重大影響。"
+    ],
+    "views": [
+      { "title": "主體的建構作用", "text": "知識並非被動接受外在世界，而是由主體的認識能力主動參與構成。" },
+      { "title": "自由與自律", "text": "自由是哲學的核心問題之一。康德以道德自律說明自由，後繼者則進一步討論自由在歷史與社會中的實現。" },
+      { "title": "追求體系", "text": "試圖以統一的原理說明知識、道德、藝術與宗教，建立完整的哲學體系。" }
+    ],
+    "philosophers": ["kant"],
+    "schools": [],
+    "concepts": ["categorical-imperative"],
+    "works": ["critique-of-pure-reason", "groundwork"],
+    "tags": ["近代哲學", "知識論", "倫理學"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Immanuel Kant", "url": "https://plato.stanford.edu/entries/kant/" }
+    ]
+  }
+]

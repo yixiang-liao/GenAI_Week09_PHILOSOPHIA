@@ -1,0 +1,192 @@
+[
+  {
+    "id": "virtue-and-good-life",
+    "name": "什麼是美好的人生？",
+    "nameOriginal": "孔子的「仁」與亞里斯多德的「幸福」",
+    "tradition": "both",
+    "era": "倫理學",
+    "summary": "孔子與亞里斯多德都把德行與人格養成放在倫理學的中心，但兩者對德行的來源、目標與社會脈絡有不同理解。",
+    "question": [
+      "人應該追求什麼樣的人生？是財富、名聲、快樂，還是成為某種特定的人？",
+      "孔子與亞里斯多德幾乎生活在同一個時代的不同端點，兩人都不從單一規則出發，而是關心「怎樣的人格才是好的」。"
+    ],
+    "east": {
+      "title": "孔子：以仁成就君子",
+      "points": [
+        "孔子以「仁」為最高德行，強調對他人的真誠關懷，並以「己所不欲，勿施於人」作為實踐原則。",
+        "理想人格是「君子」。君子透過學習、反省與實踐禮儀而養成，德行在家庭與社會的人倫關係中具體展現。",
+        "孔子較少討論抽象的「幸福」定義，而是從日常的言行舉止中指點德行，例如「朝聞道，夕死可矣」所表達的對道的追求。"
+      ]
+    },
+    "west": {
+      "title": "亞里斯多德：合乎德行的幸福",
+      "points": [
+        "亞里斯多德認為人生的最高目的是幸福（eudaimonia），而幸福在於靈魂合乎德行的理性活動。",
+        "德行是透過反覆實踐養成的品格狀態，並以中道為特徵，需要實踐智慧依情境判斷。",
+        "他將個人的美好生活放在城邦中討論，認為人「在本性上是政治的動物」，並在最後將沉思生活視為最完滿的幸福。"
+      ]
+    },
+    "similarities": [
+      "都屬於重視品格與德行的倫理思想，關心「成為怎樣的人」，而不只是「應該做什麼」。",
+      "都認為德行需要透過學習與長期實踐養成，而非一蹴可幾。",
+      "都把倫理與政治連結起來，認為良好的政治應幫助人實現德行。"
+    ],
+    "differences": [
+      "孔子特別重視家庭倫理與親疏有別的人倫關係；亞里斯多德的倫理學則以城邦公民為主要框架。",
+      "亞里斯多德以「人的功能」等理論論證建構幸福概念；孔子的教導多為情境化的語錄，較少系統性的理論推導。",
+      "亞里斯多德將理論性的沉思視為最高幸福；孔子所重視的「學」則以道德實踐為核心目的。",
+      "學界常以德行倫理學比較兩者，但也提醒「仁」與希臘的「德行」（aretē）並非可以直接互換的概念。"
+    ],
+    "philosophers": ["confucius", "aristotle"],
+    "schools": ["confucianism", "peripatetic"],
+    "concepts": ["ren", "eudaimonia"],
+    "works": ["analects", "nicomachean-ethics"],
+    "tags": ["倫理學", "德行", "人生觀"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Comparative Philosophy: Chinese and Western", "url": "https://plato.stanford.edu/entries/comparphil-chiwes/" },
+      { "title": "Stanford Encyclopedia of Philosophy：Virtue Ethics", "url": "https://plato.stanford.edu/entries/ethics-virtue/" }
+    ]
+  },
+  {
+    "id": "source-of-morality",
+    "name": "道德從何而來？",
+    "nameOriginal": "孟子的「性善」與康德的「道德法則」",
+    "tradition": "both",
+    "era": "倫理學",
+    "summary": "孟子從人心中自然流露的善端說明道德的根源，康德則從理性為自己立法說明道德的普遍性。兩者都認為道德不只是外在規範，但對「內在」的理解並不相同。",
+    "question": [
+      "人為什麼應該做道德的事？道德是社會約定、神的命令，還是根植於人自身？",
+      "孟子與康德都反對把道德簡化為利益計算，並都在人自身中尋找道德的根據。"
+    ],
+    "east": {
+      "title": "孟子：擴充本心的善端",
+      "points": [
+        "孟子主張人生來就有惻隱、羞惡、辭讓、是非四端之心，這是仁義禮智的開端。",
+        "看見孩子即將跌入井中而生出的不忍之心，說明道德反應是自然而真誠的情感，不是為了任何利益。",
+        "道德修養在於「存心養性」，把內在善端擴充出來，人人都有成為堯舜的可能。"
+      ]
+    },
+    "west": {
+      "title": "康德：理性為自己立法",
+      "points": [
+        "康德認為道德必須具有普遍必然性，因此不能建立在因人而異的情感或經驗之上，而應建立在純粹理性之上。",
+        "最高的道德原則是定言令式：只依照你同時願意它成為普遍法則的準則行動。",
+        "行為的道德價值在於出於義務。若只是出於同情或喜好而做好事，即使行為正確，在康德看來也不具有真正的道德價值。"
+      ]
+    },
+    "similarities": [
+      "都認為道德的根源在人自身，而不是外在的權威或功利後果。",
+      "都反對以利益作為道德的基礎：孟子強調義利之辨，康德強調出於義務而非出於傾向。",
+      "都肯定每個人都具有道德能力，因而都具有尊嚴或成聖的可能。"
+    ],
+    "differences": [
+      "孟子以「心」的情感反應（如惻隱之心）作為道德起點；康德則刻意將道德與情感、傾向區分開來，以理性為根據。",
+      "孟子重視道德的培養與擴充，是一個逐步成長的修養過程；康德關注的是判斷行為準則能否普遍化的形式原則。",
+      "康德的「自律」是理性意志自我立法的概念；將孟子的本心直接等同於康德的自律，是否恰當在比較哲學界仍有爭論。"
+    ],
+    "philosophers": ["mencius", "kant"],
+    "schools": ["confucianism", "german-idealism"],
+    "concepts": ["human-nature-goodness", "categorical-imperative"],
+    "works": ["mengzi", "groundwork"],
+    "tags": ["倫理學", "人性論", "道德根源"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Mencius", "url": "https://plato.stanford.edu/entries/mencius/" },
+      { "title": "Stanford Encyclopedia of Philosophy：Kant's Moral Philosophy", "url": "https://plato.stanford.edu/entries/kant-moral/" }
+    ]
+  },
+  {
+    "id": "ultimate-reality",
+    "name": "世界的真實是什麼？",
+    "nameOriginal": "老莊的「道」與柏拉圖的「理型」",
+    "tradition": "both",
+    "era": "形上學",
+    "summary": "道家與柏拉圖都認為感官所見的變化世界背後有更根本的真實，但道是流動、內在於萬物且不可言說的，理型則是永恆不變、可由理性認識的。",
+    "question": [
+      "我們眼前不斷變化的世界，就是全部的真實嗎？如果背後還有更根本的東西，人能夠認識它嗎？",
+      "老子、莊子與柏拉圖都不滿足於感官表象，各自提出了說明世界根源的核心概念。"
+    ],
+    "east": {
+      "title": "老莊：不可言說的道",
+      "points": [
+        "老子以「道」為萬物生成的根源，道無形無名，「道可道，非常道」，語言無法完全把握它。",
+        "道並不在萬物之外，莊子說道在螻蟻、瓦甓之中，表示道遍在於萬物的變化之中。",
+        "人面對道的方式不是建立精確的知識，而是減少成見與慾望，順應自然。"
+      ]
+    },
+    "west": {
+      "title": "柏拉圖：永恆的理型",
+      "points": [
+        "柏拉圖認為感官事物不斷變化，只是理型的摹本；理型永恆不變，才是真正的實在。",
+        "洞穴寓言說明一般人只看見影子，唯有透過哲學教育與辯證，靈魂才能轉向真實。",
+        "理型是知識的對象，可以透過理性思考逐步認識，最高的是善的理型。"
+      ]
+    },
+    "similarities": [
+      "都認為感官所見並非真實的全部，背後存在更根本的原理。",
+      "都對日常語言與一般見解保持警覺，認為人容易被表象或成見遮蔽。",
+      "都將形上學與人生修養相連：認識根本真實，會改變人的生活方式。"
+    ],
+    "differences": [
+      "理型是永恆不變、彼此區分的；道則是流動的，本身就展現在萬物的生成變化之中。",
+      "柏拉圖傾向區分感官世界與理型世界；道家的道則內在於萬物，不構成另一個分離的世界。",
+      "柏拉圖認為理型可以透過理性與辯證認識；道家則強調道超越語言與概念，需要透過體會與修養來把握。",
+      "因此不宜將道簡單譯解為「理型」或「本質」，兩者處理的問題雖相近，但思路差異很大。"
+    ],
+    "philosophers": ["laozi", "zhuangzi", "plato"],
+    "schools": ["daoism", "platonic-academy"],
+    "concepts": ["dao", "theory-of-forms"],
+    "works": ["daodejing", "zhuangzi-book", "republic"],
+    "tags": ["形上學", "知識論", "語言"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Daoism", "url": "https://plato.stanford.edu/entries/daoism/" },
+      { "title": "Stanford Encyclopedia of Philosophy：Plato", "url": "https://plato.stanford.edu/entries/plato/" }
+    ]
+  },
+  {
+    "id": "teaching-through-dialogue",
+    "name": "如何教人思考？",
+    "nameOriginal": "孔子的因材施教與蘇格拉底的詰問法",
+    "tradition": "both",
+    "era": "教育與方法",
+    "summary": "孔子與蘇格拉底都沒有親自留下著作，思想主要透過弟子記錄的對話流傳。兩人都以對話啟發學生，但對話的目的與方式有所不同。",
+    "question": [
+      "哲學能夠被「教」嗎？老師應該直接給出答案，還是引導學生自己思考？",
+      "東西方最早的兩位「老師」型哲學家，都以對話作為主要的教學方式。"
+    ],
+    "east": {
+      "title": "孔子：因材施教與啟發",
+      "points": [
+        "孔子對不同弟子的同一個問題常給出不同回答，例如弟子問仁、問孝時，回答會依對方的個性與處境調整。",
+        "孔子說「不憤不啟，不悱不發」，主張學生要先努力思考，到了想說卻說不出來的時候，老師才加以啟發。",
+        "對話的目的在於幫助弟子在生活中實踐德行，學習與修身密不可分。"
+      ]
+    },
+    "west": {
+      "title": "蘇格拉底：詰問與自知無知",
+      "points": [
+        "蘇格拉底透過一連串問題檢驗對方對「勇氣」「正義」等概念的定義，揭露其中的矛盾。",
+        "他自比為產婆，認為自己不傳授知識，而是幫助他人產出思想並加以檢驗。",
+        "許多對話最後並沒有得到結論，但參與者因此承認自己的無知，開始真正的探究。"
+      ]
+    },
+    "similarities": [
+      "兩人都沒有親自著書，思想透過弟子的記錄流傳（《論語》與柏拉圖、色諾芬等人的作品）。",
+      "都重視學生自身的思考，而不是被動接受。",
+      "都把學問與人生緊密結合，認為哲學最終要改變人的生活方式。"
+    ],
+    "differences": [
+      "孔子的回答通常帶有明確的指引，並依學生情況調整；蘇格拉底則傾向不斷提問，常以困惑收尾。",
+      "孔子重視傳承與學習古代經典及禮樂；蘇格拉底則對傳統見解進行理性檢驗，追求普遍定義。",
+      "孔子以師生之間長期的教養關係為基礎；蘇格拉底的對話對象則常是市集中的各種人，包括自認有知識的政治人物與詩人。"
+    ],
+    "philosophers": ["confucius", "socrates"],
+    "schools": ["confucianism", "platonic-academy"],
+    "concepts": ["ren", "socratic-method"],
+    "works": ["analects", "apology"],
+    "tags": ["教育", "方法論", "對話"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Confucius", "url": "https://plato.stanford.edu/entries/confucius/" },
+      { "title": "Stanford Encyclopedia of Philosophy：Socrates", "url": "https://plato.stanford.edu/entries/socrates/" }
+    ]
+  }
+]

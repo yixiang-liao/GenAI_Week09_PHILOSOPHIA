@@ -1,0 +1,245 @@
+[
+  {
+    "id": "analects",
+    "name": "《論語》",
+    "nameOriginal": "The Analects（Lunyu）",
+    "tradition": "east",
+    "era": "春秋末至戰國初編成",
+    "summary": "記錄孔子及其弟子言行的語錄體著作，共二十篇，是了解孔子思想最直接的文本，也是儒家最重要的經典之一。",
+    "background": [
+      "《論語》並非孔子親自撰寫，而是由孔子的弟子及再傳弟子在孔子去世後陸續記錄、編纂而成。",
+      "全書以簡短的對話與語錄組成，篇名多取自各篇開頭的字詞，例如〈學而〉、〈為政〉。內容涉及學習、政治、倫理、人物評論等。",
+      "南宋朱熹將《論語》與《孟子》、《大學》、《中庸》合為「四書」並加以注釋，此後成為科舉考試的基本教材，影響中國及東亞教育數百年。"
+    ],
+    "ideas": [
+      { "title": "學習與修身", "text": "全書以「學而時習之」開篇，強調學習是持續實踐與反省的過程，目的在於成就德行。" },
+      { "title": "仁與禮", "text": "書中多次記載弟子問仁、問禮，孔子依不同對象給出不同回答，展現仁禮並重的思想。" },
+      { "title": "君子與小人", "text": "透過君子與小人的對比，說明重義、自省、和而不同等理想人格的特質。" },
+      { "title": "為政以德", "text": "主張統治者以德行與禮樂引導人民，而非僅依賴政令與刑罰。" }
+    ],
+    "philosophers": ["confucius"],
+    "schools": ["confucianism"],
+    "concepts": ["ren"],
+    "works": ["mengzi"],
+    "tags": ["儒家", "經典", "語錄"],
+    "sources": [
+      { "title": "中國哲學書電子化計劃：論語", "url": "https://ctext.org/analects/zh" }
+    ]
+  },
+  {
+    "id": "mengzi",
+    "name": "《孟子》",
+    "nameOriginal": "Mengzi（Mencius）",
+    "tradition": "east",
+    "era": "戰國時代",
+    "summary": "記錄孟子言行與論辯的著作，共七篇。以性善論、仁政與義利之辨為核心，文氣雄健，善用比喻與辯論。",
+    "background": [
+      "據《史記》記載，孟子晚年與弟子萬章等人整理其言論而成《孟子》七篇，分別為〈梁惠王〉、〈公孫丑〉、〈滕文公〉、〈離婁〉、〈萬章〉、〈告子〉、〈盡心〉，後世各分上下。",
+      "書中大量記載孟子與諸侯、弟子及其他學派人物的對話與辯論，反映戰國時代百家爭鳴的氛圍。",
+      "《孟子》在宋代地位大幅提升，被朱熹列入「四書」，孟子也被尊為「亞聖」。"
+    ],
+    "ideas": [
+      { "title": "性善與四端", "text": "〈公孫丑上〉與〈告子上〉論述人皆有四端之心，人性本來向善。" },
+      { "title": "仁政王道", "text": "主張君主以不忍人之心行不忍人之政，使人民安居樂業，反對以武力爭霸。" },
+      { "title": "民本思想", "text": "提出「民為貴，社稷次之，君為輕」，並認為誅殺殘暴的紂王是「誅一夫」而非弒君。" },
+      { "title": "養浩然之氣", "text": "孟子說自己「善養吾浩然之氣」，強調以道義培養剛健正直的精神力量。" }
+    ],
+    "philosophers": ["mencius"],
+    "schools": ["confucianism"],
+    "concepts": ["human-nature-goodness", "ren"],
+    "works": ["analects"],
+    "tags": ["儒家", "經典", "人性論"],
+    "sources": [
+      { "title": "中國哲學書電子化計劃：孟子", "url": "https://ctext.org/mengzi/zh" }
+    ]
+  },
+  {
+    "id": "daodejing",
+    "name": "《道德經》",
+    "nameOriginal": "Daodejing / Tao Te Ching（又稱《老子》）",
+    "tradition": "east",
+    "era": "春秋末至戰國時代（成書年代有爭議）",
+    "summary": "相傳為老子所著，約五千字，是道家最重要的經典。以精簡的韻文闡述道、德、無為與自然等思想。",
+    "background": [
+      "《道德經》又稱《老子》，通行本分為八十一章，上篇以「道可道」開始，稱〈道經〉；下篇以「上德不德」開始，稱〈德經〉。",
+      "1973年長沙馬王堆漢墓出土的帛書《老子》，〈德經〉在前、〈道經〉在後；1993年湖北郭店楚墓出土的竹簡本則只包含部分章節。這些出土文獻為研究文本的形成提供了重要材料。",
+      "歷代注本眾多，其中魏晉時期王弼的注本影響最大。《道德經》也是世界上翻譯版本最多的中文典籍之一。"
+    ],
+    "ideas": [
+      { "title": "道的不可言說", "text": "開篇即指出恆常之道無法以語言完整表達，語言與名稱有其限制。" },
+      { "title": "有無相生", "text": "美與醜、難與易、有與無等概念相互依存，說明事物的對立與轉化。" },
+      { "title": "無為而治", "text": "主張統治者清靜寡欲、不多干預，「我無為而民自化」。" },
+      { "title": "柔弱勝剛強", "text": "以水為喻，說明柔弱、謙下的力量反而能勝過剛強。" }
+    ],
+    "philosophers": ["laozi"],
+    "schools": ["daoism"],
+    "concepts": ["dao", "wuwei"],
+    "works": ["zhuangzi-book"],
+    "tags": ["道家", "經典", "形上學"],
+    "sources": [
+      { "title": "中國哲學書電子化計劃：道德經", "url": "https://ctext.org/dao-de-jing/zh" }
+    ]
+  },
+  {
+    "id": "zhuangzi-book",
+    "name": "《莊子》",
+    "nameOriginal": "Zhuangzi（又稱《南華真經》）",
+    "tradition": "east",
+    "era": "戰國時代",
+    "summary": "道家重要經典，以大量寓言與奇想闡述逍遙、齊物、養生等思想，被譽為中國哲學與文學兼美的作品。",
+    "background": [
+      "今本《莊子》三十三篇是西晉郭象整理注釋的版本，分為內篇七篇、外篇十五篇、雜篇十一篇。",
+      "一般認為內篇（如〈逍遙遊〉、〈齊物論〉、〈養生主〉）較能代表莊子本人的思想，外篇與雜篇則可能出自莊子後學之手。",
+      "唐代時《莊子》被尊稱為《南華真經》。其文學風格對後世詩文創作影響很大。"
+    ],
+    "ideas": [
+      { "title": "逍遙遊", "text": "以鯤鵬與蜩鳩的對比，說明人應超越外在依賴與世俗價值，追求精神自由。" },
+      { "title": "齊物論", "text": "指出是非彼此的判斷相互依存，主張從道的高度看待萬物，消解無謂的爭辯。" },
+      { "title": "養生主", "text": "以庖丁解牛的寓言說明順應自然、避免傷害自身的生命之道。" },
+      { "title": "語言與寓言", "text": "莊子自述以「寓言」、「重言」、「卮言」表達思想，透過故事讓讀者自行體會。" }
+    ],
+    "philosophers": ["zhuangzi"],
+    "schools": ["daoism"],
+    "concepts": ["dao", "wuwei"],
+    "works": ["daodejing"],
+    "tags": ["道家", "經典", "寓言"],
+    "sources": [
+      { "title": "中國哲學書電子化計劃：莊子", "url": "https://ctext.org/zhuangzi/zh" }
+    ]
+  },
+  {
+    "id": "apology",
+    "name": "《申辯篇》",
+    "nameOriginal": "Apology（Ἀπολογία Σωκράτους）",
+    "tradition": "west",
+    "era": "前4世紀初",
+    "summary": "柏拉圖記述蘇格拉底在受審時自我辯護的作品，展現蘇格拉底的哲學使命與面對死亡的態度。",
+    "background": [
+      "前399年，蘇格拉底被控不敬神與腐化青年，在雅典陪審法庭受審。柏拉圖當時在場，後來寫下《申辯篇》。",
+      "「申辯」（apologia）在希臘文中是「辯護」之意，與現代所說的「道歉」不同。",
+      "作品內容雖以真實審判為背景，但經過柏拉圖的文學呈現，因此學者對其中多少是蘇格拉底原話仍有討論。"
+    ],
+    "ideas": [
+      { "title": "德爾菲神諭", "text": "蘇格拉底解釋，他四處詰問他人，是為了理解神諭所說「沒有人比蘇格拉底更有智慧」的意思。" },
+      { "title": "自知無知", "text": "他發現許多自認有智慧的人其實並不知道，而自己的智慧在於知道自己無知。" },
+      { "title": "省察的人生", "text": "蘇格拉底宣稱，每天討論德行並省察自己與他人，是人最大的善；未經省察的人生不值得活。" },
+      { "title": "面對死亡", "text": "被判死刑後，蘇格拉底認為死亡不一定是壞事，並堅持不為求生而放棄哲學。" }
+    ],
+    "philosophers": ["socrates", "plato"],
+    "schools": ["platonic-academy"],
+    "concepts": ["socratic-method"],
+    "works": ["republic"],
+    "tags": ["古希臘", "對話錄", "倫理學"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Socrates", "url": "https://plato.stanford.edu/entries/socrates/" }
+    ]
+  },
+  {
+    "id": "republic",
+    "name": "《理想國》",
+    "nameOriginal": "Republic（Πολιτεία）",
+    "tradition": "west",
+    "era": "前4世紀",
+    "summary": "柏拉圖最著名的對話錄，共十卷。以「什麼是正義」為主軸，討論理想城邦、靈魂結構、教育與理型論。",
+    "background": [
+      "《理想國》屬於柏拉圖中期的作品，以蘇格拉底為主要發言人，與色拉敘馬霍斯、格勞孔等人對話。",
+      "希臘文原名 Politeia 意指城邦的政治制度或憲政體制，中文通譯為《理想國》。",
+      "對話從個人的正義出發，透過建構一個理想城邦來「放大」觀察正義，再回到個人靈魂的正義。"
+    ],
+    "ideas": [
+      { "title": "正義的定義", "text": "色拉敘馬霍斯主張正義是強者的利益，蘇格拉底則論證正義是城邦與靈魂各部分各司其職的和諧狀態。" },
+      { "title": "城邦與靈魂", "text": "理想城邦由統治者、護衛者與生產者組成，對應靈魂中的理性、意氣與慾望。" },
+      { "title": "哲學家王", "text": "唯有認識善之理型的哲學家才適合統治，因此哲學家應成為統治者。" },
+      { "title": "洞穴寓言", "text": "第七卷以洞穴中的囚徒比喻人類認識的處境，說明教育是引導靈魂轉向真理的過程。" }
+    ],
+    "philosophers": ["plato", "socrates"],
+    "schools": ["platonic-academy"],
+    "concepts": ["theory-of-forms", "socratic-method"],
+    "works": ["apology", "nicomachean-ethics"],
+    "tags": ["古希臘", "對話錄", "政治哲學", "形上學"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Plato", "url": "https://plato.stanford.edu/entries/plato/" }
+    ]
+  },
+  {
+    "id": "nicomachean-ethics",
+    "name": "《尼各馬可倫理學》",
+    "nameOriginal": "Nicomachean Ethics（Ἠθικὰ Νικομάχεια）",
+    "tradition": "west",
+    "era": "前4世紀",
+    "summary": "亞里斯多德最重要的倫理學著作，共十卷。探討幸福、德行、中道、友愛與沉思生活，是德行倫理學的經典。",
+    "background": [
+      "此書很可能整理自亞里斯多德在呂克昂學院的講課內容。書名一般認為與其子尼各馬可有關，可能由他編輯，或是題獻給他。",
+      "亞里斯多德認為倫理學屬於「實踐知識」，不能像數學一樣精確，而應以適合主題的方式研究。",
+      "本書與《政治學》密切相關，亞里斯多德將倫理學視為政治學的一部分，因為人的美好生活需要在城邦中實現。"
+    ],
+    "ideas": [
+      { "title": "幸福是最高目的", "text": "第一卷論證所有行動都指向某種善，而幸福是因其自身而被追求的最高善。" },
+      { "title": "德行來自習慣", "text": "第二卷指出倫理德行不是天生的，而是透過反覆實踐養成，例如做公正的事才成為公正的人。" },
+      { "title": "中道", "text": "德行是在過與不及之間的適中，且這種適中是「相對於我們」而言，需要實踐智慧判斷。" },
+      { "title": "友愛與沉思", "text": "第八、九卷討論友愛在美好生活中的重要性；第十卷則認為沉思是最完滿的幸福。" }
+    ],
+    "philosophers": ["aristotle"],
+    "schools": ["peripatetic"],
+    "concepts": ["eudaimonia"],
+    "works": ["republic"],
+    "tags": ["古希臘", "倫理學", "德行"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Aristotle's Ethics", "url": "https://plato.stanford.edu/entries/aristotle-ethics/" }
+    ]
+  },
+  {
+    "id": "critique-of-pure-reason",
+    "name": "《純粹理性批判》",
+    "nameOriginal": "Critique of Pure Reason（Kritik der reinen Vernunft）",
+    "tradition": "west",
+    "era": "1781年（第二版1787年）",
+    "summary": "康德的第一批判，探討人類理性在不依賴經驗時能認識什麼，以及理性的界限所在，是近代知識論與形上學的里程碑。",
+    "background": [
+      "康德花了約十年時間醞釀此書，於1781年出版，1787年出版大幅修訂的第二版。",
+      "康德試圖調和理性主義與經驗主義：他同意知識始於經驗，但主張知識並不完全來自經驗，人的認識能力本身提供了先天的形式。",
+      "「批判」在此並非否定，而是對理性能力進行審查，劃定其合法使用的範圍。"
+    ],
+    "ideas": [
+      { "title": "先天綜合判斷", "text": "核心問題是「先天綜合判斷如何可能」，即如何有既具普遍必然性、又能擴展知識的判斷。" },
+      { "title": "時間與空間", "text": "〈先驗感性論〉主張時間與空間是人類感性直觀的先天形式，而非事物本身的性質。" },
+      { "title": "範疇", "text": "知性透過因果、實體等範疇整理感官材料，使經驗成為有秩序的知識。" },
+      { "title": "理性的界限", "text": "當理性試圖超越經驗去認識靈魂、宇宙整體與上帝時，會陷入無法解決的矛盾（二律背反等）。" }
+    ],
+    "philosophers": ["kant"],
+    "schools": ["german-idealism"],
+    "concepts": ["categorical-imperative"],
+    "works": ["groundwork"],
+    "tags": ["近代哲學", "知識論", "形上學"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Immanuel Kant", "url": "https://plato.stanford.edu/entries/kant/" }
+    ]
+  },
+  {
+    "id": "groundwork",
+    "name": "《道德形上學之基礎》",
+    "nameOriginal": "Groundwork of the Metaphysics of Morals（Grundlegung zur Metaphysik der Sitten）",
+    "tradition": "west",
+    "era": "1785年",
+    "summary": "康德篇幅較短但影響巨大的倫理學著作。從日常的道德認識出發，找出並確立道德的最高原則——定言令式。",
+    "background": [
+      "此書出版於1785年，介於《純粹理性批判》與《實踐理性批判》之間，中文也譯為《道德形上學基礎》或《道德形上學的奠基》。",
+      "康德的目的是「找出並確立道德的最高原則」，全書分為序言與三章，從一般人的道德理性認識逐步過渡到哲學的分析。",
+      "此書至今仍是倫理學課程中最常被閱讀的經典之一，也是義務論倫理學的代表作品。"
+    ],
+    "ideas": [
+      { "title": "善意志", "text": "第一章開頭指出，除了善意志之外，世界上沒有任何東西可以被視為無條件的善。" },
+      { "title": "出於義務", "text": "行為的道德價值不在於結果，而在於是否出於義務、出於對道德法則的尊重。" },
+      { "title": "定言令式的表述", "text": "第二章提出定言令式的多種表述，包括普遍法則、人性作為目的與目的王國等。" },
+      { "title": "自由與自律", "text": "第三章討論道德與自由的關係，主張理性存有者的意志能為自己立法。" }
+    ],
+    "philosophers": ["kant"],
+    "schools": ["german-idealism"],
+    "concepts": ["categorical-imperative"],
+    "works": ["critique-of-pure-reason"],
+    "tags": ["近代哲學", "倫理學", "義務論"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Kant's Moral Philosophy", "url": "https://plato.stanford.edu/entries/kant-moral/" }
+    ]
+  }
+]

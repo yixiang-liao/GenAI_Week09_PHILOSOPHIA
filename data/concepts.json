@@ -1,0 +1,219 @@
+[
+  {
+    "id": "ren",
+    "name": "仁",
+    "nameOriginal": "Ren（Humaneness / Benevolence）",
+    "tradition": "east",
+    "era": "春秋時代起",
+    "summary": "儒家思想的核心德行，指人與人之間真誠的關懷與愛，也是個人修養的最高境界。",
+    "origin": [
+      "「仁」字在孔子之前已經出現，但孔子將它提升為最重要的德行，在《論語》中被反覆討論。",
+      "孔子對仁的說明常依弟子的情況而有所不同，例如回答樊遲「愛人」，回答顏淵「克己復禮為仁」，顯示仁不是單一的定義，而是需要在生活中體會與實踐的德行。",
+      "孟子將仁與人的本性相連，認為惻隱之心是仁的開端，並把仁從個人修養推展到「仁政」的政治理想。"
+    ],
+    "views": [
+      { "title": "愛人", "text": "仁的基本意義是關愛他人，並以「己所不欲，勿施於人」作為待人的原則。" },
+      { "title": "由近及遠", "text": "儒家的愛有親疏次序，從孝順父母、友愛兄弟開始，再推及他人與萬物。" },
+      { "title": "仁與禮", "text": "孔子說「人而不仁，如禮何？」禮是仁的外在表現，仁則是禮的內在根據。" },
+      { "title": "仁政", "text": "孟子主張君主擴充不忍人之心，推行照顧人民的政治。" }
+    ],
+    "philosophers": ["confucius", "mencius"],
+    "schools": ["confucianism"],
+    "concepts": ["human-nature-goodness", "eudaimonia"],
+    "works": ["analects", "mengzi"],
+    "tags": ["儒家", "倫理學", "德行"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Confucius", "url": "https://plato.stanford.edu/entries/confucius/" }
+    ]
+  },
+  {
+    "id": "human-nature-goodness",
+    "name": "性善論",
+    "nameOriginal": "Mencian Theory of Human Nature",
+    "tradition": "east",
+    "era": "戰國時代",
+    "summary": "孟子提出的人性論，主張人生來就具有向善的道德根苗，惡是由於後天環境影響或未能擴充本心所致。",
+    "origin": [
+      "戰國時代人性問題成為熱烈討論的議題。告子主張「性無善無不善」，以水流的方向比喻人性可善可惡。",
+      "孟子反駁告子，認為人性向善就像水往低處流一樣自然，並以四端之心作為論證。",
+      "後來荀子提出性惡論，主張人的本性好利，必須依靠禮義教化才能為善，與孟子形成儒家內部的重要對比。"
+    ],
+    "views": [
+      { "title": "四端之心", "text": "惻隱、羞惡、辭讓、是非之心人人皆有，分別是仁、義、禮、智的開端。" },
+      { "title": "不忍人之心", "text": "看見孩子即將跌入井中，人會自然生出驚懼同情之心，並非為了結交孩子的父母或博取名聲。" },
+      { "title": "擴充與存養", "text": "善端如同剛點燃的火、剛湧出的泉，需要持續培養擴充，否則可能因環境而失去。" },
+      { "title": "人皆可以為堯舜", "text": "既然人人都有善端，每個人都有成為聖賢的可能，差別在於是否努力實踐。" }
+    ],
+    "philosophers": ["mencius"],
+    "schools": ["confucianism"],
+    "concepts": ["ren", "categorical-imperative"],
+    "works": ["mengzi"],
+    "tags": ["儒家", "人性論", "倫理學"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Mencius", "url": "https://plato.stanford.edu/entries/mencius/" }
+    ]
+  },
+  {
+    "id": "dao",
+    "name": "道",
+    "nameOriginal": "Dao / Tao（The Way）",
+    "tradition": "east",
+    "era": "春秋戰國時代起",
+    "summary": "道家哲學的核心概念，指萬物生成與運行的根源和規律。它無形無名，無法以語言完全描述。",
+    "origin": [
+      "「道」的本義是道路，引申為方法、規律與原則。先秦諸子都使用「道」這個字，例如儒家所說的「道」多指人倫與治國之道。",
+      "老子將「道」提升為宇宙的根源，說「道生一，一生二，二生三，三生萬物」，使道成為具有形上學意義的概念。",
+      "莊子進一步強調道無所不在，並從道的觀點看待萬物的平等與變化。"
+    ],
+    "views": [
+      { "title": "不可言說", "text": "「道可道，非常道」，能用語言說出的道就不是恆常的道，語言只能指向道而無法窮盡它。" },
+      { "title": "萬物根源", "text": "道先於天地而存在，萬物都由道而生，並依循道而運行。" },
+      { "title": "道法自然", "text": "道並不刻意主宰萬物，而是依其自身而運行，讓萬物自然生長。" },
+      { "title": "道無所不在", "text": "《莊子‧知北遊》中，莊子回答東郭子道在何處時，說道在螻蟻、稊稗、瓦甓之中，表示道遍在萬物。" }
+    ],
+    "philosophers": ["laozi", "zhuangzi"],
+    "schools": ["daoism"],
+    "concepts": ["wuwei", "theory-of-forms"],
+    "works": ["daodejing", "zhuangzi-book"],
+    "tags": ["道家", "形上學"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Daoism", "url": "https://plato.stanford.edu/entries/daoism/" }
+    ]
+  },
+  {
+    "id": "wuwei",
+    "name": "無為",
+    "nameOriginal": "Wuwei（Non-action / Effortless action）",
+    "tradition": "east",
+    "era": "春秋戰國時代起",
+    "summary": "道家的重要概念，指不強作妄為、不違背自然的行動方式。它不是消極地什麼都不做，而是順應事物本性而行。",
+    "origin": [
+      "無為的概念在《道德經》中多次出現，例如「道常無為而無不為」，說明道雖不刻意作為，卻成就了一切。",
+      "老子把無為應用於政治，提出「我無為而民自化」，主張統治者減少干預與慾望。",
+      "莊子以庖丁解牛等寓言說明，順著事物本身的條理行動，看似不費力，卻能達到最好的效果。"
+    ],
+    "views": [
+      { "title": "不妄為", "text": "無為的重點在於不做違反自然的事，避免以私心或成見強加於事物。" },
+      { "title": "無為而無不為", "text": "正因為不強求，事物才能依其本性充分發展，因此看似無為，實則無所不成。" },
+      { "title": "政治上的無為", "text": "統治者應減少法令與干預，「治大國若烹小鮮」，避免反覆折騰人民。" },
+      { "title": "技藝中的無為", "text": "高超的技藝來自對事物本性的深刻理解，使行動自然流暢而不勉強。" }
+    ],
+    "philosophers": ["laozi", "zhuangzi"],
+    "schools": ["daoism"],
+    "concepts": ["dao"],
+    "works": ["daodejing", "zhuangzi-book"],
+    "tags": ["道家", "政治哲學", "倫理學"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Laozi", "url": "https://plato.stanford.edu/entries/laozi/" }
+    ]
+  },
+  {
+    "id": "socratic-method",
+    "name": "蘇格拉底詰問法",
+    "nameOriginal": "Socratic Method / Elenchus",
+    "tradition": "west",
+    "era": "前5世紀",
+    "summary": "蘇格拉底透過連續提問檢驗對方信念的對話方法。藉由揭露矛盾，促使人承認無知並進一步追求真正的知識。",
+    "origin": [
+      "詰問法主要見於柏拉圖的早期對話錄，例如《游敘弗倫篇》中，蘇格拉底與游敘弗倫討論「什麼是虔敬」。",
+      "這種方法的希臘文 elenchus 原意為「檢驗」或「反駁」。蘇格拉底通常先請對方提出定義，再透過提問指出該定義與對方其他信念之間的衝突。",
+      "在柏拉圖《泰阿泰德篇》中，蘇格拉底把自己比喻為「產婆」，說自己不生產智慧，而是幫助他人產出思想並加以檢驗，因此詰問法也被稱為「產婆術」。"
+    ],
+    "views": [
+      { "title": "從定義出發", "text": "對話通常圍繞「什麼是 X」的問題，例如什麼是勇氣、正義或虔敬，追求適用於所有情況的普遍定義。" },
+      { "title": "揭露矛盾", "text": "透過提問讓對方發現自己的看法前後不一致，進而放棄錯誤或不完整的信念。" },
+      { "title": "承認無知", "text": "許多早期對話以「困惑」（aporia）收尾，沒有給出最終答案，但參與者因此更清楚自己的無知。" },
+      { "title": "哲學作為共同探究", "text": "詰問法強調真理需要透過對話與理性檢驗而逐步接近，而不是由權威直接傳授。" }
+    ],
+    "philosophers": ["socrates", "plato"],
+    "schools": ["platonic-academy"],
+    "concepts": ["theory-of-forms"],
+    "works": ["apology", "republic"],
+    "tags": ["古希臘", "方法論", "知識論"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Socrates", "url": "https://plato.stanford.edu/entries/socrates/" }
+    ]
+  },
+  {
+    "id": "theory-of-forms",
+    "name": "理型論",
+    "nameOriginal": "Theory of Forms（Ideas）",
+    "tradition": "west",
+    "era": "前4世紀",
+    "summary": "柏拉圖的核心學說，主張感官世界之外存在永恆不變的理型，具體事物只是對理型的分有或摹仿。",
+    "origin": [
+      "蘇格拉底追問「什麼是正義」「什麼是美」等普遍定義，柏拉圖進一步追問：這些定義所指向的對象究竟存在於何處？",
+      "受到赫拉克利特強調萬物流變、巴門尼德強調真實存在不變等思想的影響，柏拉圖區分了變動的感官世界與永恆的理型世界。",
+      "理型論在《斐多篇》、《理想國》等中期對話中有較完整的表述。柏拉圖在後期的《巴門尼德篇》中也提出了對理型論的批評，顯示他本人持續反思這一理論。"
+    ],
+    "views": [
+      { "title": "兩個世界", "text": "感官世界中的事物會生成與毀滅，理型則永恆不變。例如各種美的事物都會消逝，但「美本身」不會。" },
+      { "title": "分有與摹仿", "text": "具體事物之所以具有某種性質，是因為它分有或摹仿了相應的理型。" },
+      { "title": "洞穴寓言", "text": "《理想國》第七卷以囚徒只看見洞穴牆上的影子為喻，說明一般人誤把感官現象當成真實，哲學教育則引導靈魂轉向真理。" },
+      { "title": "善的理型", "text": "在所有理型之中，善的理型最為崇高，柏拉圖以太陽比喻它，認為它使其他理型得以被認識。" }
+    ],
+    "philosophers": ["plato"],
+    "schools": ["platonic-academy"],
+    "concepts": ["socratic-method", "dao"],
+    "works": ["republic"],
+    "tags": ["古希臘", "形上學", "知識論"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Plato", "url": "https://plato.stanford.edu/entries/plato/" }
+    ]
+  },
+  {
+    "id": "eudaimonia",
+    "name": "幸福（Eudaimonia）",
+    "nameOriginal": "Eudaimonia（εὐδαιμονία）",
+    "tradition": "west",
+    "era": "前4世紀",
+    "summary": "古希臘倫理學的核心概念，常譯為「幸福」或「美好的人生」。亞里斯多德認為它是人生的最終目的，在於靈魂合乎德行的活動。",
+    "origin": [
+      "eudaimonia 的字面意思與「好的守護神」有關，在古希臘一般指人生過得好、興盛發展的狀態。",
+      "蘇格拉底與柏拉圖已將幸福與德行緊密相連。亞里斯多德在《尼各馬可倫理學》中對幸福作了最系統的分析。",
+      "亞里斯多德的幸福觀是當代「德行倫理學」的重要思想來源。"
+    ],
+    "views": [
+      { "title": "最高的善", "text": "人們追求財富、名譽等是為了其他目的，唯有幸福是因其自身而被追求，因此是最高的善。" },
+      { "title": "人的功能論證", "text": "人的獨特功能在於理性活動。好的人生，就是卓越地發揮理性功能的人生。" },
+      { "title": "德行與中道", "text": "倫理德行是在過與不及之間取得適中，例如慷慨介於揮霍與吝嗇之間，需要由實踐智慧依情境判斷。" },
+      { "title": "需要完整的一生", "text": "亞里斯多德說「一燕不成夏」，幸福不是短暫的感受，而是在整個人生中穩定實現德行的活動。" }
+    ],
+    "philosophers": ["aristotle"],
+    "schools": ["peripatetic"],
+    "concepts": ["ren"],
+    "works": ["nicomachean-ethics"],
+    "tags": ["古希臘", "倫理學", "德行"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Aristotle's Ethics", "url": "https://plato.stanford.edu/entries/aristotle-ethics/" },
+      { "title": "Stanford Encyclopedia of Philosophy：Virtue Ethics", "url": "https://plato.stanford.edu/entries/ethics-virtue/" }
+    ]
+  },
+  {
+    "id": "categorical-imperative",
+    "name": "定言令式",
+    "nameOriginal": "Categorical Imperative（Kategorischer Imperativ）",
+    "tradition": "west",
+    "era": "18世紀",
+    "summary": "康德倫理學的最高道德原則。它是不附帶任何條件的命令，要求理性存有者無論欲望或後果如何，都應依照能普遍化的準則行動。",
+    "origin": [
+      "康德在1785年出版的《道德形上學之基礎》中首次系統提出定言令式，並在《實踐理性批判》中進一步發展。",
+      "康德區分兩種命令：「假言令式」是有條件的，例如「如果你想健康，就應該運動」；「定言令式」則是無條件的，適用於所有理性存有者。",
+      "康德希望為道德找到不依賴經驗、幸福或宗教權威的基礎，而這個基礎就在理性本身之中。"
+    ],
+    "views": [
+      { "title": "普遍法則的表述", "text": "只依照你同時願意它成為普遍法則的準則行動。例如若人人都做虛假承諾，承諾本身就會失去意義。" },
+      { "title": "人性的表述", "text": "無論對待自己或他人，都要把人性同時當作目的，而絕不僅僅當作手段。" },
+      { "title": "善意志", "text": "康德認為世界上唯一無條件為善的是善意志，行為的道德價值在於出於義務，而非後果。" },
+      { "title": "自律", "text": "道德法則不是外在強加的，而是理性為自己所立的法則，人因此是自由而有尊嚴的。" }
+    ],
+    "philosophers": ["kant"],
+    "schools": ["german-idealism"],
+    "concepts": ["human-nature-goodness"],
+    "works": ["groundwork", "critique-of-pure-reason"],
+    "tags": ["倫理學", "義務論", "啟蒙"],
+    "sources": [
+      { "title": "Stanford Encyclopedia of Philosophy：Kant's Moral Philosophy", "url": "https://plato.stanford.edu/entries/kant-moral/" }
+    ]
+  }
+]
